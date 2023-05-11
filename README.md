@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GhostMobin
+- 👋 Hi, I’m Shehjad Mobin
 - 👀 I’m interested in design, code, art and music
 - 🌱 I’m currently learning 3d in blender, flutter, java, illustrator scripts
 - 💞️ I’m looking to collaborate on design and illustrator scripts
